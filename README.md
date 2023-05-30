@@ -16,4 +16,5 @@ No sats are sent until you run the generated script or add it to your crontab.
   ./lightning-recurring-payment.sh
   ```
 ### Donate
-⚡ sats@alism.ir
+
+```⚡ sats@alism.ir```
