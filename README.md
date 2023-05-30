@@ -15,4 +15,5 @@ No sats are sent until you run the generated script or add it to your crontab.
   cd lightning-recurring-payment
   ./lightning-recurring-payment.sh
   ```
-
+### Donate
+⚡ sats@alism.ir
